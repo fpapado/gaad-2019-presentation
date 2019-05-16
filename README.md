@@ -2,7 +2,58 @@
 
 https://github.com/fpapado/gaad-2019-presentation
 
+## Some motivation
+> Around 80 million people in the EU are 
+affected by a disability in some degree
+(temporary / permanent disability).
+
+- EAA Factsheet 
+
+> Disabled people make up 1/6 of the
+working age people in Europe.
+
+- EU department of Employment, Social Affairs & Inclusion
+
+> On average in the EU-27, only 5% of
+public websites comply fully with web
+accessibility standards, though more
+are partially accessible.
+
+- European Disability Strategy 2010-2020: A Renewed Commitment to a BarrierFree Europe
+
 ## What is Accessibility?
+
+1. The quality of being able to be reached or entered.
+2. The quality of being easy to obtain or use.
+3. The quality of being easily understood or appreciated.
+
+In the digital world, accessibility covers more areas than one
+would think, these include:
+Performance, Design, Implementation of code, Copywriting Legal,
+Diversity and Inclusion
+
+## How Accessibility Affects Us
+
+Major categories of disability:
+- Visual (Blindness, low vision, color-blindness)
+- Hearing (Deafness and hard-of-hearing)
+- Motor (Inability to use a mouse, slow response time, limited fine motor control)
+- Cognitive (Learning disabilities, distractibility, inability to remember or focus on large amounts of information)
+
+Source: https://webaim.org/intro/
+
+Many of these can be:
+- Permanent (e.g. if you are born or become permanently blind)
+- Temporary (e.g. an arm in a cast, eye surgery)
+- Situational (e.g. holding a baby, being under stress)
+
+## Where do I start?
+
+Guidance to making sites accessible: POUR
+- Perceivable
+- Operable
+- Understandable
+- Robust
 
 ## A11y?
 
@@ -138,6 +189,8 @@ From the HTML Design Principles:
 [HTML Accessibility API Mappings](https://www.w3.org/TR/html-aam-1.0/). Ever wonder why we say "semantic HTML is better for accessibility"? This document establishes what role, label, and state each semantic HTML element exposes by default!
 
 ### Reading
+[A11y Project](https://a11yproject.com/). A lot of resources on Accessibility.
+
 [Inclusive Components](https://inclusive-components.design). A "blog aiming to be a pattern library", great breakdown of custom widgets and considerations. Also as an ebook.
 
 [Accessibility For Everyone](https://abookapart.com/products/accessibility-for-everyone). Great insight into the reasons, processes and implementation of accessibility.
